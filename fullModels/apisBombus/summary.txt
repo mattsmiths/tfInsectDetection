@@ -1,0 +1,2 @@
+Trained on inaturalist Bombus and Apis 
+Classes - Bombus / Apis
