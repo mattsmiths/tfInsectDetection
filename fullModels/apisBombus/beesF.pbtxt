@@ -1,0 +1,16 @@
+item {
+  name: "Background"
+  id: 2
+  display_name: "Background"
+}
+item {
+  name: "Bombus"
+  id: 2
+  display_name: "Bombus"
+}
+item {
+  name: "Apis"
+  id: 3
+  display_name: "Apis"
+}
+
