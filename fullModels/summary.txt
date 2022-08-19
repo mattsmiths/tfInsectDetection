@@ -1,3 +1,0 @@
-Model architecture - efficientDet0 
-Classes - 
-TrainingSet - 
