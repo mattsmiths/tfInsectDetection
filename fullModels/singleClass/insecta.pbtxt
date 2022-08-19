@@ -1,0 +1,11 @@
+item {
+  name: "Background"
+  id: 1
+  display_name: "Background"
+}
+item {
+  name: "Insecta"
+  id: 2
+  display_name: "Insecta"
+}
+
